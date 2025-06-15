@@ -1,4 +1,4 @@
-# 🧪 Student Health Behavior Analysis with Python & Seaborn
+# 🧪 Student Health Behavior Analysis with Python & Data Visualization Tools and Related Libraries
 This project analyzes U.S. high school student behavior data using Python and data visualization. The dataset, based on the Youth Risk Behavior Surveillance System (YRBSS), includes topics like soda consumption, physical activity, and health-related habits across different grades, states, and demographics.
 
 # 🔍 Key Features
