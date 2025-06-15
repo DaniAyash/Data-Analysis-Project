@@ -39,3 +39,6 @@ Clear downward trend in daily exercise among older students.
 # 📁 Dataset Source
 Youth Risk Behavior Surveillance System (YRBSS)
 (Provided as a CSV file in the repository or through public data portals)
+
+# Project members
+Daniel Ayash and Daniel Shahar
